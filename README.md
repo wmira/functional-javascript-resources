@@ -9,8 +9,9 @@ Functional Javascript Resources
 # Twitter
 1. [Brian Lonsdorf @drboolean](https://twitter.com/drboolean)
 
-# Blogs
+# Blogs/Articles
 1. [Loop/Recur](http://looprecur.com/blog/)
+2. [Functional Programming for Javascript People] (https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.vp2r84hhy)
 
 # Talks And Youtube Channels
 1. [What Every Hipster Should Know About Functional Programming](https://vimeo.com/68331937)
