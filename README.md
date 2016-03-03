@@ -8,6 +8,7 @@ Functional Javascript Resources
 
 # Twitter
 1. [Brian Lonsdorf @drboolean](https://twitter.com/drboolean)
+2. [FunctionalJS London @funjsldn ] (https://twitter.com/funjsldn)
 
 # Blogs/Articles
 1. [Loop/Recur](http://looprecur.com/blog/)
