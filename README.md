@@ -19,6 +19,7 @@ Functional Javascript Resources
 1. [What Every Hipster Should Know About Functional Programming](https://vimeo.com/68331937)
 2. [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos)
 3. [Functional programming design patterns](https://www.youtube.com/watch?v=E8I19uA-wGY)
+4. [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA)
 
 # Contributions
   Please submit a pull request and ensure tests are passing (jk)
