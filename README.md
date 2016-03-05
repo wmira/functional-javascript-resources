@@ -20,6 +20,7 @@ Functional Javascript Resources
 2. [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos)
 3. [Functional programming design patterns](https://www.youtube.com/watch?v=E8I19uA-wGY)
 4. [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA)
+5. [Functional programming design patterns by Scott Wlaschin](https://www.youtube.com/watch?v=E8I19uA-wGY) - its in F# but the concept here is applicable in functional programming
 
 # Contributions
   Please submit a pull request and ensure tests are passing (jk)
