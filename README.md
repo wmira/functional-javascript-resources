@@ -1,10 +1,11 @@
 Functional Javascript Resources
 ==============================
 
-# Online Books
+# Online Books / Papers
 
 1. [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
 2. [Mostly Adequate Guide To Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
+3. [Why Functional Programming Matters] (https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 
 # Twitter
 1. [Brian Lonsdorf @drboolean](https://twitter.com/drboolean)
@@ -14,6 +15,7 @@ Functional Javascript Resources
 1. [Loop/Recur](http://looprecur.com/blog/)
 2. [Functional Programming for Javascript People] (https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.vp2r84hhy)
 3. [Functional Programming in Javascript] ( http://reactivex.io/learnrx/ )
+
 
 # Talks And Youtube Channels
 1. [What Every Hipster Should Know About Functional Programming](https://vimeo.com/68331937)
