@@ -23,6 +23,7 @@ Functional Javascript Resources
 3. [Functional programming design patterns](https://www.youtube.com/watch?v=E8I19uA-wGY)
 4. [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA)
 5. [Functional programming patterns for the non-mathematician](https://www.youtube.com/watch?v=AvgwKjTPMmM)
+6. [Deconstructing Functional Programming](http://www.infoq.com/presentations/functional-pros-cons)
 
 
 # Contributions
