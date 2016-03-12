@@ -16,6 +16,10 @@ Functional Javascript Resources
 2. [Functional Programming for Javascript People] (https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.vp2r84hhy)
 3. [Functional Programming in Javascript] ( http://reactivex.io/learnrx/ )
 
+# Git Repos / Libraries
+1. [Fantasy Land] ( https://github.com/fantasyland )
+2. [FolkTale - Generic Functional Programming in JS ] ( https://github.com/folktale )
+3. [Lodash FP ] ( https://github.com/lodash/lodash/wiki/FP-Guide )
 
 # Talks And Youtube Channels
 1. [What Every Hipster Should Know About Functional Programming](https://vimeo.com/68331937)
