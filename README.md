@@ -15,6 +15,7 @@ Functional Javascript Resources
 1. [Loop/Recur](http://looprecur.com/blog/)
 2. [Functional Programming for Javascript People] (https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.vp2r84hhy)
 3. [Functional Programming in Javascript] ( http://reactivex.io/learnrx/ )
+4. [What is Functional Programming] ( http://blog.jenkster.com/2015/12/what-is-functional-programming.html )
 
 # Git Repos / Libraries
 1. [Fantasy Land] ( https://github.com/fantasyland )
